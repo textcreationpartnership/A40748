@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Further explication of the proposal relating to the coyne</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40748</idno>
+            <idno type="STC">Wing F2557</idno>
+            <idno type="STC">ESTC R23350</idno>
+            <idno type="EEBO-CITATION">12067533</idno>
+            <idno type="OCLC">ocm 12067533</idno>
+            <idno type="VID">53404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 69:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Further explication of the proposal relating to the coyne</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53404:1"/>
+            <pb facs="tcp:53404:1" rendition="simple:additions"/>
+            <head>A FURTHER EXPLICATION Of the PROPOSAL relating to the COYNE,</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Did never intend ny other Paper, as a Syſtem in the Matter of Coin, but ſingly as a Memo<g ref="char:EOLhyphen"/>rial for Redreſſing the preſent Miſchief, by the Alterations of our Standard, <hi>Anno</hi> 1686: And by the ſeveral Alterations, Upps and Downs ſince that time by Publict Order; Yet for further Explanati<g ref="char:EOLhyphen"/>on even as to my Intention, I have ſcribled over what <hi>I</hi> thought might conduce to it, and jotted out ſome of the Principal Alterations in the Matter of Money, ſince thereby ſomething of the Nature of Changes in Money may be underſtood. And if at another time you deſire to be more fully in<g ref="char:EOLhyphen"/>formed in theſe Matters, I ſhall either abſtract them for you from the beſt Authors, or at leaſt give you an Index of theſe Books, which may in<g ref="char:EOLhyphen"/>form you more fully.</p>
+            <p>THE <hi>Sophiſms</hi> uſed by ſome late Writers in <hi>England,</hi> to perſwade the raiſing of the value of Mony, are ſcarce worth the Redarguing; Since the force of the Truth, which they oppoſe, draws from them a Confeſſion, that their Counſel is Pernicious; For even Mr. <hi>Hodges</hi> their Chief
+<pb n="2" facs="tcp:53404:2" rendition="simple:additions"/>Owns that Money is to be raiſed, only for an <hi>Interim, Viz.</hi> For bringing in of Money for once, But that it is to be raiſed ſhortly thereafter by Peice Meal, And then brought down again to its former value? How far he is miſtaken as to the firſt, what I have ſaid, (as I do think) doth Evince: And as to the bringing of it down again by Peice Meal, ſhews indeed that the raiſing of it was folly, but that the Cure would be alſo Pernicious, by leaving the loſs of all the cryed down Money, on the Subjects who were obliged to Receive it at an Overvalue, by the Governments Command: And that, after a great deal of Money is Received at an Overvalue, And when the evil is more deeply Rooted.</p>
+            <p>And that the Remedy by Ceſſing our Selfs in alſe much as will Recoyn our Money to a true Standart, timeouſly; Eſ<g ref="char:EOLhyphen"/>pecially now, when there is ſo little Caſh in <hi>Scotland,</hi> where<g ref="char:EOLhyphen"/>by a Leſſer Summ may now Recoyn it then hereafter, if the Caſh grow greater, is Preferrable; And if it be delayed too long, it may be feared on too good Grounds, that there will be little Caſh to be Recoyned.</p>
+            <p>This is not to be underſtood, as if the Denomination of Money were never to be raiſed; For Money being here con<g ref="char:EOLhyphen"/>ſidered only as it is a Symbol in Trade, to Facilitate Com<g ref="char:EOLhyphen"/>merce; And that it is a Symbol Univerſally Received for that uſe, being the fitteſt <hi>Catholick</hi> Symboll; Becauſe the Mat<g ref="char:EOLhyphen"/>ter. <hi>Viz.</hi> Mettal is moſt Univerſally uſeful and Knowen, moſt dureable by its Nature, moſt Retentive of Authorizing Impreſſions, and uneaſieſt to be Counterfited. So it Receives its eſteem and Denomination, by <hi>Univerſal</hi> or <hi>Catholick</hi> Con<g ref="char:EOLhyphen"/>ſent. And if one People ſhould eſtimat the Mettal, <hi>viz.</hi> Gold and Silver twice as much as an other People does, <hi>Ex: Gr:</hi> If <hi>A</hi> ſhould eſteem an Ounce of Silver worth ſix <hi>Pound,</hi> And an other, <hi>viz.</hi> B ſhould eſteem it worth three only. When B. did buy Goods from A. Then A who eſteemed B his Peice
+<pb n="3" facs="tcp:53404:2"/>of Mettal worth ſix, would give him twice as much <hi>Goods</hi> for his three <hi>Pound,</hi> as it was worth: But when A comes to buy <hi>Goods</hi> from B, B will take the <hi>Three Pound-peice,</hi> but for <hi>Three,</hi> and A moſt give two of theſe <hi>Three-pound-peices,</hi> to make up <hi>Six,</hi> albeit he Received one of them for <hi>Six</hi> from B. Now ſuppoſe that C, D, E, F, <hi>&amp;c. i. e.</hi> All the other Ad<g ref="char:EOLhyphen"/>jacent Nations, ſhould have the ſame eſtimat of an Ounce of Silver, that B hath; Then <hi>A</hi> moſt give two of the <hi>Three-pound-peices,</hi> which he received from B, when he buys <hi>Goods</hi> from them in <hi>Exchange</hi> for theſe <hi>Peices.</hi>
+            </p>
+            <p>But if C, D, E, F, <hi>&amp;c.</hi> ſhould raiſe the <hi>Denomination,</hi> and eſteem of the ſaid Ounce of Silver, or <hi>Three-pound-peices,</hi> to the ſame value that A did, <hi>viz.</hi> to <hi>Six Pound,</hi> And yet not raiſe the value of their <hi>Goods</hi> at the ſame time; It is evident in the firſt place, that when B brings his <hi>Ounce,</hi> or <hi>Three-pound-peice</hi> to any of theſe Countries, he will get <hi>Six Pounds</hi> worth of <hi>Goods</hi> for every <hi>Three-pound,</hi> which will be a vaſt advan<g ref="char:EOLhyphen"/>tage to B; Eſpecially if the Mettal be his Native Product. And if it be not his Native Product, But ſuppoſe it be the Native Product of H, his Countrey; It is then evident that H his Native Commoditie is valued thereby, at the double of what it was before; And in that Reſpect, comparing the <hi>Goods</hi> of all the other Nations, with the Mettal which is H his Commoditie; They are not worth above the half of what they were before, And H will ſtill continue Gainer, untill the Goods of the other Nations be proportionably raiſed, as the Mettal was raiſed; This is the true caſe as to <hi>Spain.</hi>
+            </p>
+            <p>And if B ſhould ſtill value his <hi>Ounce</hi> of <hi>Mettal,</hi> at <hi>Three Pound.</hi> when all the Adjacent Nations have valued it at <hi>Six Pound,</hi> or any thing more then <hi>Three-pound;</hi> Then if any of the adjacent Nations, were to buy <hi>Goods</hi> of the Na<g ref="char:EOLhyphen"/>tive Product or <hi>Manufactory</hi> of B: If the ſame kind of Product or Manufactory were to be had in any other place,
+<pb n="4" facs="tcp:53404:3"/>where that Ounce did give more than <hi>Three Pound;</hi> To be ſure, The adjacent Nations would go and buy theſe <hi>Goods,</hi> where the <hi>Mettal</hi> was moſt valued; And thereby B will come to a great Loſs, ſince no Body will come to buy his Goods.</p>
+            <p>From whence it is evident, That Money being the Uni<g ref="char:EOLhyphen"/>verſal Symbol, it muſt receive its Eſtimat and Value, not by one or two Nations, but by the Common Conſent of all the Nations where that Symbol is uſed. And by the former Deduction, it it alſo evident, that a Nation who will raiſe their Eſtimat and Denomination above other Nations, do thereby debaſe the Value of their own Goods, which are the Subject of Commerce, whilſt they raiſe the Value of the Symbols to their own Loſs, to the Advantage of all Foreign Merchants, and chiefly to the <hi>Spaniards.</hi> And on the other hand, they who keep the Eſtimate of Money lower than their Neighbour Nations, do, in a manner, prohibite other Nations to buy their Goods; Since Merchants will always go where they can get moſt Goods for their Money, <hi>i. e.</hi> where their Money is moſt valued: And therefore the General Rule is, that Money ſhould be raiſed, or not, ac<g ref="char:EOLhyphen"/>cording to what the Generality of Neighbouring Nations do, eſpecially theſe who are beſt Governed, and with whom We have moſt Traffique. But there is one qualified Exception from this, <hi>viz:</hi> If a Nation were ſo circumſtantiat, that they had ſome Native Product or Manufactory, neceſſar or very uſeful for Mankind; As for Example, if <hi>England</hi> have Cloath or Tin, which other Nations have not of their own, and cannot want; Then albeit <hi>England</hi> ſhould keep the Purity of their Standard Money, and the Neighbour Nations ſhould raiſe theirs, and that <hi>England</hi> ſhould diſcharge any Money to paſs within their Kingdom, except their own Coin; Then the Nations which muſt buy their Cloath and Tinn, muſt alſo provide themſelves of <hi>Engliſh</hi> Money to buy it; And ſuppoſe that a great deal of the <hi>Engliſh</hi> Coin, had been carried out of
+<pb n="5" facs="tcp:53404:3"/>
+               <hi>England,</hi> becauſe of the higher Value put upon it in the Neighbouring Nations; Yet the Merchants muſt provide and buy this <hi>Engliſh</hi> Money from other Nations, and bring it back again to <hi>England:</hi> At leaſt they muſt bring the equiva<g ref="char:EOLhyphen"/>lent of it in pure Bullion, or elſe they muſt want the Cloath and Tinn of <hi>England.</hi>
+            </p>
+            <p>But for all this, it were a great Imprudence in <hi>England,</hi> to keep their Money at a lower Eſtimat than the other Nations with whom they Trade, by any conſiderable Proportion; for that would in ſome meaſure diſcourage Merchants, and in great Meaſure Embarraſs and confound Exchange; So that <hi>Englands</hi> Prudence in that Caſe, would be to advance the Eſtimate of their Money, to the <hi>Par:</hi> of the beſt Standard amongſt their Neighbours, and at the ſame time to advance the Eſtimate of their Cloath and Tinn: Yet ſince their Cloath and Tinn forces even Forreigners to bring in Money to them, its but Folly in <hi>England,</hi> not to keep their Standard always as good, if not better, than any other Nation's Standard; And ever ſince that Excellent Counſellor, the Lord <hi>Burleigh,</hi> did reſtore the Standard of <hi>England</hi> to its Purity: (and thereby <hi>England</hi> to its true Policie) They have Religiouſly obſerved the Pu<g ref="char:EOLhyphen"/>rity of their Standard, both in Weight and Fineneſs: And when by the late miſchievous Accident their Money was de<g ref="char:EOLhyphen"/>baſed by Clipping, and by that, the Nation brought upon the very Brink of Ruine; Albeit they were long in ad<g ref="char:EOLhyphen"/>verting to it, as I adventured to notifie in a Shedule Printed at <hi>Edinburgh Anno</hi> 1695, being ſeveral Months before the Committee was appointed for that End in <hi>England;</hi> They have ſince moſt prudently Repaired their Common Wealth by re<g ref="char:EOLhyphen"/>turning to their Standard, with the boldeſt Step that ever was made for Redreſſing of Coine, ſince <hi>Marius Gratidianus</hi> did Regulat the <hi>Roman</hi> Standard, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for which his Statue was E<g ref="char:EOLhyphen"/>rected
+<pb n="6" facs="tcp:53404:4"/>in the Capital;) And now <hi>England</hi> doth find the Ho<g ref="char:EOLhyphen"/>nour and Profit of this Noble Action.</p>
+            <p>To apply this to <hi>Scotland</hi> (which as is ſaid) by a Solemn Contract with <hi>England,</hi> is obliged to have the ſame Standard in Weight and Fineneſs, tho in different Denominations, their pence being the <hi>Scots</hi> Shilling, &amp; conſequently our Shilling their pence; So twelve of our pence making but one of their pence, and twelve of our pounds making but one of theirs; But the weight and Fineneſs, and therefore the <hi>Par:</hi> of Our Money and theirs is the ſame; We have likewiſe the ſame Motives with them, to keep up our Standard, unleſs it be Our intereſt, to debaſe the price of our own Native Product, and Manufacturies: And to induce Mercliants to bring in a leſs <hi>Quota of Silver,</hi> and to give us an Exchange for our Goods; then they would do, if our Standard were in its juſt Finaneſs, which I ſhal not now repeat, having ſaid e<g ref="char:EOLhyphen"/>nough to it, in the firſt part of this paper; One fooiiſh Ar<g ref="char:EOLhyphen"/>gument uſed by the Money Raiſers, was there omitted. <hi>Viz.</hi> That the receiving of <hi>Engliſh</hi> Money at an Higher Value, then the Standard; Albeit a Merchant who have a mind to buy a certain <hi>Quota</hi> of our Goods, would bring in leſs Money to buy every particular Quantity; Yet the very Gain that they make upon our Raiſing of our Money, would induce many Merchants, to come among them, and many Merchants will ſtll raiſe the mercat.</p>
+            <p>But is it not obvious, <hi>(Imo.)</hi> That all theſe Merchants bring in leſs Money to buy their <hi>Goods,</hi> than they would have done, in proportion to the <hi>Quota</hi> of <hi>Goods</hi> bought, if the Standart had been in its juſt height,. <hi>2do.</hi> Will all theſe Merchants buy more, then will ſerve the Mercats, whither they are to bring their Goods, and that they would have
+<pb n="7" facs="tcp:53404:4"/>done However, <hi>3<hi rend="sup">tio.</hi>
+               </hi> The more Goods we give out at an Undervalue, the more We loſs, <hi>4<hi rend="sup">to.</hi>
+               </hi> Is it not Obvious, That as many Merchants will raiſe the Mercats at the buying here; So by the ſame Rule, many Merchants will low the Mercat, where they Sell; And thereby the Loſs and Gain, by many Merchants is clearly Ballanced.</p>
+            <p>But in true Reaſoning, We have the ſame Motives with <hi>England</hi> to expect, that the Merchants will bring in Money of Our own Standart, or the Equivalent in <hi>Bullion,</hi> to buy Our Goods; For Our Goods are ſuch, as are not bought by others, for <hi>Vanitie</hi> or <hi>Luxurie,</hi> But ſuch as are called for, only on Neceſſity, or Urgent uſe; And uſe and Neceſſity needs no help of other Motives, eſpecially ſuch Motives as are loſs to us; But as was formerly ſaid, it were far better to give down of the price of Our Goods, then to receive worſe Money then our Standart, For any who Reads what We have ſaid, or conſiders theſe Affairs Seriouſly, will ſoon perceive, That the giving down a little of the price of Our Goods, doth only influence that Species of Goods, whereas the Debaſing of Out Standart, doth influence the whole, both of our Real and Moveable Eſtates.</p>
+            <p>I having deſigned in this Paper, to make this matter as plain as I could, Therefore I have <hi>Adventured</hi> upon Repetiti<g ref="char:EOLhyphen"/>ons, rather than to leave things in Obſcuritie; And for this end, I ſhall add a furder Illuſtration of the main Propoſition. <hi>viz.</hi> That by raiſing Our Money, our Goods are Debaſed; And that, by the Annalogie betwixt Money and Bills of Ex<g ref="char:EOLhyphen"/>change, as to their Uſe in Commerce. For albeit the Matter of a Bill be but Paper, and ſo of no value Intrinſically, Yet as to Trade, a Bill on good Credit is as valueable, and hath
+<pb n="8" facs="tcp:53404:5"/>ſeveral advantages above Coin? Now a Bank Bill of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> ſuppoſe it of 91 <hi>lib:</hi> 6 <hi>ſh:</hi> 8 <abbr>
+                  <hi>d</hi>
+               </abbr> Sterling, and which ſtill will Anſwer for the value at <hi>Amſterdam,</hi> or whereever a Bank Bill hath Credit, If by Statute We Declare that a Bill of 91 <hi>lib:</hi> 6 <hi>ſh:</hi> 8 <abbr>
+                  <hi>d</hi>
+               </abbr> of the Bank of <hi>Amſterdam,</hi> ſhall paſs and be eſtimate here, at a 100 <hi>lib,</hi> and Order, that whoever Sel's Goods for that Bill in SCOTLAND, muſt value that Bill for 100 pound; Albeit it be moſt certain, that that Bill when it goes back to <hi>Holland,</hi> or to any other Place which Trades with <hi>Holland,</hi> that it will ſtand good, only for 91 pound, 6 ſhil: 8 <abbr>
+                  <hi>d</hi>
+               </abbr> Doth not this Command us, to ſell the <hi>Scots</hi> Goods, 8 pound. 6 ſhil: 4 <abbr>
+                  <hi>d</hi>
+               </abbr> leſs, than if we had got the ſaid Bill at its true Value. And albeit this Bill may paſs over all <hi>Scotland</hi> for 100 pound in our Commerce; Yet is it not evident, that when I make uſe of this Symbol, or Bill to Trade with any where elſe, that I muſt add 8 pound, 6 ſhil: 4 <abbr>
+                  <hi>d</hi>
+               </abbr> to make it up to a 100 pound. So whether I uſe it, who did take it for a 100 pound; or if it paſs from me to another, who ſends it Abroad, either I or they muſt loſs the ſaid 8 pound, 6 ſhil: 4 <abbr>
+                  <hi>d</hi>
+               </abbr> Firſt, this demonſtrates that the crying up of any Sym<g ref="char:EOLhyphen"/>bol, uſed in Forteign Places, to more than Forreigners do eſti<g ref="char:EOLhyphen"/>mat it, doth cry down as much of our Goods, as we ſell for that Symbol; For as a Bank Bill is to the Trade of <hi>Amſter<g ref="char:EOLhyphen"/>dam,</hi> ſo Money is to the Trade of every other Place, where Money is the Symbol of Trade.</p>
+            <p n="2">
+               <hi>2do.</hi> It demonſtrates, that the giving down of the Ordinar Price of our Goods, will encourage the <hi>Hollander</hi> to bring his <hi>Bill</hi> of 91 pound, 6 <hi>ſhil.</hi> 8 <abbr>
+                  <hi>d</hi>
+               </abbr> as well as he will be, by our declaring his 91 pound, 6 <hi>ſhil:</hi> 8 <abbr>
+                  <hi>d</hi>
+               </abbr> to be in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> eſtimat at a 100 pound, only to cry up <hi>Amſterdam</hi> Bills, is ſo much better than crying up of Money Coined; Becauſe it cryes up only a Symbol for Commerce, uſed by all People,
+<pb n="9" facs="tcp:53404:5"/>and doth not oblige us to ſell all our Goods, to all and ſun<g ref="char:EOLhyphen"/>dry Forreigners in <hi>Europe,</hi> at an Uunder value; But the crying up of Money, obliges us to ſell all our Goods to all and ſun<g ref="char:EOLhyphen"/>drie, at an undervalue of 8⅔, leſs than they value their Sym<g ref="char:EOLhyphen"/>bols, which they bring to Trade with.</p>
+            <p>The <hi>Roman AS</hi> was originally Coyned of a Pound weight, in the firſt <hi>Punick</hi> War a pound was brought to weigh but two Ounces. <hi>Fabius Maximus</hi> brought it to an Ounce, and <hi>Papirius</hi> to half an Ounce.</p>
+            <p>And as in weight, So the <hi>Romans</hi> did abaſe their Money by Increaſe of its Allay, wherein <hi>Livius Druſus</hi> did exceed, and great Confuſion was produced in the <hi>Roman</hi> Common-Wealth, until <hi>Gratidianus</hi> when he was <hi>Triumvir</hi> for Coinage, did bring it back to its true Standard, who in that was the <hi>Burleigh</hi> of <hi>Rome,</hi> or <hi>Burleigh,</hi> the <hi>Gratidianus</hi> of <hi>England,</hi> to both their Immortal Fames.</p>
+            <p>But in the times after <hi>Auguſtus,</hi> the Empire ran both into Confuſion and Deminution; and it is certain, that Money is a true Pulſe of the State of Government: But <hi>Charles</hi> the Great in the Reſurrection of the Weſtern Empire, brought the Empire and Money out of their Confuſion, into a more ſolid Conſiſtence; For he renewed the Accompt by Pounds or Li<g ref="char:EOLhyphen"/>vers, dividing the Pound into 20 parts, in <hi>France</hi> called <hi>Solz, viz:</hi> the <hi>Engliſh</hi> pence, and the <hi>Solz</hi> into 12 <hi>Denniers,</hi> an <hi>Scots</hi> Pence, ſo that twenty <hi>Solz</hi> contained a pound weight of Silver. But the <hi>French</hi> have always ſince been variable in their Coins; and certain it is, that they have raiſed the Value of their Gold above ſix times what it was in St. <hi>Lewis</hi> time, and the Money above ſeven times, which hath occaſioned many confuſions and frequent Rebellions in <hi>France.</hi>
+            </p>
+            <pb n="10" facs="tcp:53404:6"/>
+            <p>In <hi>England</hi> they have been more waric and conſtant, in the matter of their Money, ſeldom raiſing it, or debaſeing their Standart; But when forced thereto by an Univerſal raiſing of Money, in the Neighbouring States. In the year 1344, their Sterling Standard of Gold was 23 Carrats. 3 Grains and an half Grain, and a pound of ſuch Gold was va<g ref="char:EOLhyphen"/>lued at 13 lib. 3 ſh. 4 <abbr>d.</abbr> The Silver Standart was eleven Ounce, and 2 pence fine, and a pound of Silver Standart was valued at 22 ſh. 2 <abbr>d.</abbr> ſterling. This was in the time of <hi>Edward</hi> the Third, <hi>Anno</hi> 1618: but in his <hi>Anno</hi> 23. Gold was raiſed to 14 lib: And ſilver to 22 ſh. 6 <abbr>d.</abbr>
+               <hi>Anno</hi> 25. <hi>ditto.</hi> Gold <hi>Hen.</hi> 4th. Gold raiſed to 16 lib. 13 ſh. 4 <abbr>d.</abbr> And Silver to 30 ſh. per <hi>pound, Anno</hi> 49. <hi>Henry</hi> 6th. Gold was raiſed to 22 lib. 10 ſh. and Silver to 37 ſh. 6 <abbr>d</abbr> King <hi>Henry</hi> the 8th, by Advice of Cardinal <hi>Wolſey</hi> did much debaſe the Coyn, and confound the Nation; And which was never redreſſed, till <hi>Anno</hi> 14, <hi>Elizabeth;</hi> that Gold was fixed at 36 lib. the <hi>pound</hi> and Silver to 3 lib the <hi>pound;</hi> But <hi>Anno</hi> 24. ſhe abaſed the Standart of Gold ¼ of a Grain; And the Standart of Sil<g ref="char:EOLhyphen"/>ver one penny, which raiſed the value of Gold 22 <abbr>d.</abbr> per lib. And the price of Silver 3 ſh. per lib. In the 2 <abbr>d</abbr> year of King <hi>James,</hi> the fineneſs of Gold, was reduced to 22 Carrats; And the value of it raiſed to 37 lib. 4 ſh. per lib. which both together was almoſt an eleventh part, more, than the Gold was at, Anno 14. <hi>Elizabeth,</hi> but afterwards by Proclamation King <hi>James,</hi> ordained every 20 ſh. Piece of Gold to paſs for 22 ſh. which yet raiſed the Gold a tenth part more; And the Sil<g ref="char:EOLhyphen"/>ver was then raiſed to 3 lib. 2 ſh. per pound; Whereby it appears, that Gold Coyne in <hi>Edward</hi> the thirds time, con<g ref="char:EOLhyphen"/>tained
+<pb n="11" facs="tcp:53404:6"/>in true value, above thrice as much, as it did in King <hi>James</hi> Time, and Silver Coyne near thrice as much.</p>
+            <p>I have ſeen a Contract atteſted by Mr. <hi>Yelvertoun,</hi> and preſented by Mr. Secretary <hi>Calvert,</hi> whereby it was appoint<g ref="char:EOLhyphen"/>ed, that in 12 Ounces of Gold which is a pound of 22 Car<g ref="char:EOLhyphen"/>rat fine, there ſhould be 41 Unites Coyned, every Unite be<g ref="char:EOLhyphen"/>ing of value 20 ſh. Sterling.</p>
+            <p>
+               <hi>Nota,</hi> The foreſaid fineneſs, both of Gold and Silver, was to be out of the Fire. <hi>Ittem,</hi> the remedy of the fineneſs of Gold, as to fineneſs was 2 Grains in the Standart; And the remedy in weight for 20 ſh. Pieces, and 10 ſh. Pieces was 2 Grains alſo: And in leſſer Peices, one Grain, providing that all the Remedies in a pound weight of Gold, did not exceed in all, 50 Grains: And the Remedy of the weight in Silver Coyne, was two Grains on the Crown, half Crown and 12 ſhilling.</p>
+            <p>As to <hi>Scots</hi> Coyne, I have not yet ſeen any Authentick Re<g ref="char:EOLhyphen"/>cord before King <hi>James</hi> the 6th Reign, Anno 1604: By Contract 'twixt the King and <hi>J: Atchiſon</hi> Maſter of the Mint, The Weights are mentioned, conform to what was adjuſted be<g ref="char:EOLhyphen"/>twixt the two Kingdoms; And which are alſo mentioned expreſly in the foreſaid Contract, reported by Mr. Secretary <hi>Calvert;</hi> viz the <hi>Engliſh</hi> Weight is declared to be 12 Ounces Troy to a pound weight; and every Ounce, to be 20 penny weight, and the <hi>Scots</hi> pound is 12 Ounces alſo for the pund, and 12 Denniers to each Ounce, But the 12 Ounces or pund <hi>Scots</hi> weighs leſs then the <hi>Engliſh</hi> pund, be 4 pennies, 9 Grains <hi>Engliſh;</hi> or be 5 Denniers, 9 Grains and 18 primes of <hi>Scots</hi> Weight. And ſo two Pyles were made, one for each King<g ref="char:EOLhyphen"/>dom, of equal weight; adding the ſaid 5 Denniers, 9 Grains
+<pb n="12" facs="tcp:53404:7"/>18 Primes to the <hi>Scots</hi> Pyle, for making it equal to the <hi>Engliſh.</hi>
+            </p>
+            <p>And according to this Adjuſted weight, was the rule of Coyning of Money, in both Kingdoms as to Weight. the Fyneneſt ſtill the ſame alſo</p>
+            <p>So before that time the <hi>Scots</hi> Weight appears to have been 12 <hi>Den:</hi> to an <hi>Ounce,</hi> 12 <hi>Ounce</hi> to a <hi>pound:</hi> But it likewiſe appears, that the <hi>Scots pound</hi> did weigh leſs then the <hi>Engliſh,</hi> be 5 Den<g ref="char:EOLhyphen"/>niers, 9 Graines, and 18 Primes. And albeit <hi>Scotland</hi> does keep their old Denominations, yet this pound and all its Fractions, do weight a little more then the old <hi>Scots</hi> pound, and its Fractions did. And I wiſh we had the ſame Denomination alſo, for 20 pnnies to the Ounce, and 24 Grains to each penny, is a far better Fraction and eaſier in Accompts, then the Denniers, and Primes, which are unequal Fractions, and doth Imbaraſs Accompts.</p>
+            <p>However, <hi>Craig</hi> tells us in his Learned Treatiſe, <hi>de Feud:</hi> That about the time of <hi>Pinkie</hi> Fight. <hi>Anno</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> That an Ounce weight of Silver was but one Merk, which now is near five Merks; Whereby he obſerves, that the <hi>Fiſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in that time had ſwallowed up Inſenſibly four parts of five of the Subject, So great a diſadvantage did he ſee in the raiſing of Money. In that place alſo, he ſets down the <hi>Scots</hi> Standard and Fine<g ref="char:EOLhyphen"/>neſs, 11 <hi>Denniers</hi> of pure Silver, and one <hi>Dennier</hi> of <hi>Allay,</hi> in Silver Coin, and 22 <hi>Carrats</hi> of pure Gold, and 2 <hi>Carrats</hi> of <hi>Allay</hi> in Gold Coin: But by the Contract betwixt the King and <hi>Atchieſon.</hi> The Standart for Silver in <hi>Scotland</hi> was to be 11 <hi>Denniers</hi> of fine Silver, and an <hi>Dennier</hi> of <hi>Allay;</hi> And at the ſame time the Standart of <hi>England</hi> by Contract, was 11 <hi>Ounce,</hi> and 2 <hi>Pennies</hi> of Silver, and 18 <hi>pennie</hi> of <hi>Allay,</hi> By which it appears, that our <hi>Allay</hi> was a full 12 part, whilſt
+<pb n="13" facs="tcp:53404:7"/>the <hi>Engliſh Allay</hi> was two <hi>pennies</hi> leſs, ſo that there Money was better than Ours in Fineneſs, or elſe they have Compted wrong in the Contract: But the Standard of the Gold in Fineneſs, at that time by both the Contracts was 22 <hi>Carrats</hi> pure Gold, and 2 <hi>Carratt</hi> of <hi>Allay.</hi>
+            </p>
+            <p>And as to the weight, the peices of Coin was as follows, 37 <hi>Twelve-pound-peices,</hi> and 1/<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of a Peice, was to weigh 12 Ounces, 5 <hi>Denniers,</hi> 9 <hi>Graines,</hi> 18 <hi>Primes,</hi> which was equivalent to 12 Ounces <hi>Troy,</hi> or a Pound weight in <hi>England,</hi> And in Silver Coin, 12 <hi>Three pound-peices,</hi> and ⅖ parts more, <hi>Viz.</hi> Two Shilling <hi>Starling,</hi> were to weight 12 Ounce, 5 <hi>Deuniers,</hi> 9 <hi>Grains,</hi> 18 <hi>Primes,</hi> or 12 Ounce of <hi>Engliſh</hi> weight: But in the <hi>Engliſh</hi> Contract produced by Calvert, The Unites of Gold, which are 20 <hi>Shilling Sterling,</hi> or 12 Pound <hi>Scots;</hi> there were 41 Peices or Unites in the Pound weight of Gold, and by the Contract <hi>Anno</hi> 1604. with <hi>Ait<g ref="char:EOLhyphen"/>chieſon.</hi> The Price appointed for Gold of 22 <hi>Carrats</hi> fine, is 34 <hi>Lib:</hi> 18 <hi>ſh:</hi> Scots <hi>per</hi> Ounce, and 58 <hi>Shilling</hi> for the Ounce of <hi>Silver</hi> of eleven <hi>Denniers</hi> Fine.</p>
+            <p>Now in Silver Coin, Our loſs may be clearly perceived, <hi>Firſt,</hi> By our own Coin, which now is 8 and ⅕ parts worſe than the ſaid Standart, and this in Weight.</p>
+            <p>And next by Forreign Coin, The <hi>Philip</hi> Dollar is but 10 <hi>Denniers</hi> Fine, the <hi>Italian</hi> Dollar but 9 and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4/20 parts, the <hi>Hollands</hi> Dollar but 9 <hi>Denniers,</hi> the <hi>Ducatdown</hi> 9 <hi>Denniers.</hi> And many of theſe Forreign Coyns, do alſo want of Weight.</p>
+            <p>By all which Debaſings, and paſsing of baſe Money a<g ref="char:EOLhyphen"/>mongſt us. I boldly aſſert, that our Nation is more pre<g ref="char:EOLhyphen"/>judged and Impoveriſhed, than by all the Ceſs we have payed theſe ten years bygone, as may be made appear, if a Com<g ref="char:EOLhyphen"/>mittee
+<pb n="14" facs="tcp:53404:8"/>be appointed, and think it worth their pains to know it; At which alſo, ſome Overture may be propoſed for Re<g ref="char:EOLhyphen"/>dreſſing this great Miſchief, as much and as ſoon as poſſiby can be expected, and if not Redreſt, Infallibly Our Nation will fall at once in Penury and Confuſion, by ſeveral Degrees lower than it is; For that Lean Cow, <hi>viz.</hi> The Act for Coynadge 1686, hath Devou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed two parts of three, of what Gold or Silver was in <hi>Scotland</hi> before that Act; And that over and above a conſiderable Stock of Gold and Money brought in by the Forces, payed within this Kingdom by <hi>Engliſh</hi> Pay; As alſo a conſiderable quantity of Money brought in by the Export of the Coal and Salt during the Wars, and ſince, at an higher Rate than uſual: All which is exhauſted by the forementioned Lean Cow; For as to the other Cormorant, Our Superfluous Luxury on Back and Belly, which Eats our Goods without Digeſtion, for any Healthful Uſe, I ſhall offer my Opinion in an other Paper.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:53404:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
